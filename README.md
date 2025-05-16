@@ -15,7 +15,6 @@ This project automates a train ticket search on the (https://www.cp.pt/passageir
 ## Project Structure
 
 ```
-cypressAssignment/
 ├── cypress/
 │   ├── e2e/
 │   │   └── searchTickets.spec.js       # Main Cypress test
