@@ -1,0 +1,16 @@
+Question 2:
+Are there any oddities you noticed about the website from a functional or UX 
+perspective?
+Answer:
+1.After selecting a date, the displayed format ("20 May, 2025") is not the typical dd/mm/yyyy, 
+2.Typing station names (like “Lagos”) does not select the preselected option from dropdowm 
+
+
+Question3
+What changes would you make to the website for ease of implementation of a FE 
+automation test suite or general testing?
+Answer:
+1. Add unique identifier
+Fields (origin/destination inputs ,date pickers) does not have unique data-testid or data-cy attributes.
+2.Standardize Date Formats for Inputs
+The current input format ("22 May, 2025") is localized

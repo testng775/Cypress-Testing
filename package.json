@@ -1,0 +1,16 @@
+{
+  "name": "cypressassignment",
+  "version": "1.0.0",
+  "description": "This project automates a train ticket search on the [CP.pt website](https://www.cp.pt/passageiros/en/buy-tickets) using **Cypress** and the **Page Object Model (POM)** structure.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.3.3",
+    "cypress-real-events": "^1.14.0"
+  }
+}
